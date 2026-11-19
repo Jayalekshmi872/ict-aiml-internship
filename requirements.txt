@@ -1,0 +1,10 @@
+streamlit>=1.40
+youtube-transcript-api>=0.6
+pandas
+openpyxl
+numpy
+torch
+transformers>=4.44
+sentencepiece
+yt-dlp[default]
+imageio-ffmpeg
